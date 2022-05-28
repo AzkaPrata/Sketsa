@@ -10,7 +10,8 @@ Kumpulan **Sketsa** yang masih berbentuk grid tetapi sudah responsive dan siap d
 
 ## Framework yang digunakan
 
-- [x] **TailwindCSS**
-- [x] **Express**
+- [x] **TailwindCSS @3.0.24**
+- [x] **Bootstrap @5.2.0**
+- [x] **Jquery @3.6.0**
 
 > Copyright @AzkaPrata
